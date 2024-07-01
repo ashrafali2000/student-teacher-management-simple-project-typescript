@@ -1,0 +1,1 @@
+# student-teacher-management-simple-project-typescript
